@@ -690,7 +690,7 @@ msgstr "ঋণ গ্রহণ"
 #: widget.html:45
 #, python-format
 msgid "Join waitlist for &quot;%(title)s&quot;"
-msgstr "\"%(title)s \"এর জন্য প্রতীক্ষাসূচি তে শামিল হন;"
+msgstr "\"%(title)s \"এর জন্য প্রতীক্ষাসূচিতে শামিল হন;"
 
 #: LoanStatus.html:112 widget.html:45
 msgid "Join Waitlist"
@@ -699,7 +699,7 @@ msgstr "প্রতীক্ষাসূচিতে অংশগ্রহণ �
 #: widget.html:49
 #, python-format
 msgid "Learn more about &quot;%(title)s&quot; at OpenLibrary"
-msgstr "OpenLibrary তে \"%(title)s \"এর ব্যাপারে আরো জানুন"
+msgstr "OpenLibrary তে \"%(title)s\"এর ব্যাপারে আরো জানুন"
 
 #: widget.html:49
 msgid "Learn More"
@@ -711,7 +711,7 @@ msgstr "তে "
 
 #: work_search.html:68
 msgid "Search Books"
-msgstr "বই খুজুন"
+msgstr "বই খুঁজুন"
 
 #: work_search.html:72
 msgid "eBook?"
